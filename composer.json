@@ -1,0 +1,8 @@
+{
+    "name": "biko2/components_default_values",
+    "description": "Default values for twig components",
+    "require": {
+        "php": "^7.2"
+    },
+    "type": "drupal-module"
+}

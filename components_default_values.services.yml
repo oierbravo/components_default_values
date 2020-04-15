@@ -1,0 +1,5 @@
+services:
+  componentsDefaultValues.twigExtension:
+    class: Drupal\components_default_values\ComponentsDefaultValuesTwigExtension
+    tags:
+      - { name: twig.extension }
